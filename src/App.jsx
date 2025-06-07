@@ -62,7 +62,7 @@ function App() {
               </div>
               <div>
                 <div className="font-semibold">Email</div>
-                <div className="text-sm">kothuru@aptisync.com</div>
+                <div className="text-sm">support@aptisync.com</div>
               </div>
             </div>
           </div>
