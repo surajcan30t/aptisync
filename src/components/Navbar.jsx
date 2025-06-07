@@ -11,7 +11,7 @@ export default function Navbar() {
         {/* Logo or Brand Name can go here */}
 
         {/* Hamburger button for mobile */}
-        <div className="w-full flex justify-end">
+        <div className="lg:hidden w-full flex justify-end">
           <button
             onClick={() => setIsOpen(!isOpen)}
             className="lg:hidden text-white focus:outline-none"
