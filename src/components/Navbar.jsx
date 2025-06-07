@@ -48,14 +48,6 @@ export default function Navbar() {
           </li>
           <li>
             <a
-              href="#case-studies"
-              className="hover:text-blue-400 transition-colors duration-300 text-white"
-            >
-              Case Studies
-            </a>
-          </li>
-          <li>
-            <a
               href="#contact"
               className="hover:text-blue-400 transition-colors duration-300 text-white"
             >
@@ -99,14 +91,6 @@ export default function Navbar() {
               className="block text-white hover:text-blue-400 transition-colors duration-300"
             >
               Services
-            </a>
-          </li>
-          <li>
-            <a
-              href="#case-studies"
-              className="block text-white hover:text-blue-400 transition-colors duration-300"
-            >
-              Case Studies
             </a>
           </li>
           <li>

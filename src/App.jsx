@@ -159,7 +159,7 @@ function App() {
       </section>
 
       {/* We Got Your Back Section */}
-      <section className="py-20 bg-gray-800">
+      <section id="about" className="py-20 bg-gray-800">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-5xl lg:text-6xl font-bold mb-8">
@@ -210,7 +210,7 @@ function App() {
       </section>
 
       {/* Features Section */}
-      <section className="py-20">
+      <section id="products" className="py-20">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
@@ -278,7 +278,7 @@ function App() {
       </section>
 
       {/* Services Section */}
-      <section className="py-20 bg-gray-800">
+      <section id="services" className="py-20 bg-gray-800">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
